@@ -44,26 +44,6 @@ npm install apexcharts --save
 <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
 ```
 
-## Wrappers for Vue/React/Angular/Stencil
-
-Integrate easily with 3rd party frameworks
-
-- [vue-apexcharts](https://github.com/apexcharts/vue-apexcharts)
-- [react-apexcharts](https://github.com/apexcharts/react-apexcharts)
-- [ng-apexcharts](https://github.com/apexcharts/ng-apexcharts) - Plugin by [Morris Janatzek](https://morrisj.net/)
-- [stencil-apexcharts](https://github.com/apexcharts/stencil-apexcharts)
-
-### Unofficial Wrappers
-
-Useful links to wrappers other than the popular frameworks mentioned above
-
-- [apexcharter](https://github.com/dreamRs/apexcharter) - Htmlwidget for ApexCharts
-- [apexcharts.rb](https://github.com/styd/apexcharts.rb) - Ruby wrapper for ApexCharts
-- [larapex-charts](https://github.com/ArielMejiaDev/larapex-charts) - Laravel wrapper for ApexCharts
-- [blazor-apexcharts](https://github.com/apexcharts/Blazor-ApexCharts) - Blazor wrapper for ApexCharts [demo](https://apexcharts.github.io/Blazor-ApexCharts/)
-- [svelte-apexcharts](https://github.com/galkatz373/svelte-apexcharts) - Svelte wrapper for ApexCharts
-
-
 ## Usage
 
 ```js
@@ -209,17 +189,7 @@ More details in [Contributing Guidelines](CONTRIBUTING.md).
 npm run build
 ```
 
-## Where do I go next?
 
-Head over to the <a href="https://apexcharts.com/docs/">documentation</a> section to read more about how to use different kinds of charts and explore all options.
-
-## Contacts
-
-Email: <a href="info@apexcharts.com">info@apexcharts.com</a>
-
-Twitter: <a href="https://twitter.com/apexcharts">@apexcharts</a>
-
-Facebook: <a href="https://facebook.com/apexcharts">fb.com/apexcharts</a>
 
 ## Dependency
 
@@ -227,4 +197,4 @@ ApexCharts uses <a href="https://svgdotjs.github.io/" target="_blank">SVG.js</a>
 
 ## License
 
-ApexCharts is released under MIT license. You are free to use, modify and distribute this software, as long as the copyright header is left intact.
+Charts is released under MIT license. You are free to use, modify and distribute this software, as long as the copyright header is left intact.
